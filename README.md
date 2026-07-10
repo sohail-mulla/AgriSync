@@ -10,8 +10,6 @@ AgriSync is a **full-stack B2B agriculture marketplace** connecting **Farmers, B
 
 AgriSync transforms traditional produce trading into a **digital ecosystem** with role-based dashboards, analytics, and automation for all three user types.
 
-🔗 **GitHub Repository:** [AgriSync](https://github.com/surajshinde87/AgriSync)
-
 ---
 
 ## 🧩 Why AgriSync?
